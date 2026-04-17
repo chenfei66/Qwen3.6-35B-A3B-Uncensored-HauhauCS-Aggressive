@@ -44,3 +44,4 @@ Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q5_K_P.gguf filter=lfs diff=lfs m
 Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q6_K_P.gguf filter=lfs diff=lfs merge=lfs -text
 Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q8_K_P.gguf filter=lfs diff=lfs merge=lfs -text
 Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf filter=lfs diff=lfs merge=lfs -text
+Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ4_NL.gguf filter=lfs diff=lfs merge=lfs -text
