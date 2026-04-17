@@ -39,7 +39,7 @@ For a more conservative uncensor that keeps some safety guardrails, check the Ba
 
 | File | Quant | BPW | Size |
 |------|-------|-----|------|
-| [Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q8_K_P.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q8_K_P.gguf) | Q8_K_P | TBD | TBD |
+| [Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q8_K_P.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q8_K_P.gguf) | Q8_K_P | 10.06 | 44 GB |
 | — | Q8_0 | 8.5 | — |
 | [Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q6_K_P.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q6_K_P.gguf) | Q6_K_P | 7.07 | 31 GB |
 | — | Q6_K | 6.6 | — |
