@@ -19,7 +19,7 @@ base_model: Qwen/Qwen3.6-35B-A3B
 
 > **[Join the Discord](https://discord.gg/SZ5vacTXYf)** for updates, roadmaps, projects, or just to chat.
 
-Qwen3.6-35B-A3B uncensored by HauhauCS.
+Qwen3.6-35B-A3B uncensored by HauhauCS. **0/465 Refusals.**
 
 > **HuggingFace's "Hardware Compatibility" widget doesn't recognize K_P quants** — it may show fewer files than actually exist. Click **"View +X variants"** or go to **Files and versions** to see all available downloads.
 
@@ -53,7 +53,7 @@ For a more conservative uncensor that keeps some safety guardrails, check the Ba
 | — | Q3_K_M | 3.9 | — |
 | [Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ3_M.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ3_M.gguf) | IQ3_M | TBD | TBD |
 | [Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q2_K_P.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q2_K_P.gguf) | Q2_K_P | TBD | TBD |
-| [Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ2_M.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ2_M.gguf) | IQ2_M | 2.69 | TBD |
+| [Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ2_M.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ2_M.gguf) | IQ2_M | 2.69 | 11 GB |
 | [mmproj-Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-f16.gguf](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive/resolve/main/mmproj-Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-f16.gguf) | mmproj (f16) | — | 899 MB |
 
 All quants generated with importance matrix (imatrix) for optimal quality preservation on abliterated weights.
